@@ -1,0 +1,334 @@
+
+body{
+    background-color: rgba(165, 42, 42, 0.032);
+}
+
+
+header{
+    width: 100%;
+    height: 90px;
+    background-color: rgba(31, 45, 137, 0.755);
+    color: rgb(214, 214, 214);
+    padding: 0px;
+    margin: 0px;
+}
+
+#Logo{
+float: left;
+}
+
+#Logo h1{
+  padding: 0px 0px 0px 40px;
+    font-family: tahoma;
+    font-size: 35px;
+}
+
+nav ul{
+ 
+    list-style: none;
+    float: right;
+    font-family: Tahoma;
+    margin-right: 900px;
+    padding-top: 23px;
+   
+}
+
+nav ul li{
+    padding: 0px 25px 30px 0px;
+    display: inline;
+}
+
+#image1_2{
+    position: relative;
+}
+
+#image1_2 img{
+    width: 100%;
+    height: 650px;
+}
+
+.Description{
+    position: absolute;
+    top: 0;
+
+}
+
+#Description-1 {
+    text-shadow:  5px 5px 5px rgba(12, 27, 155, 0.629);
+    font-size: 27px;
+}
+
+
+
+
+
+.site_header{
+    text-align: center;
+    font-size: 80px;
+    color: brown;
+    border: rgb(160, 37, 37);
+    border-radius: 10px ;
+    border-style:dashed;
+    margin: 50px 510px 50px 510px;
+    border-width: 5px;
+    font-family: tahoma;
+   
+}
+
+
+.image_Description img{
+    
+    height: 450px;
+    width: 350px;
+    margin-top: 50px;
+    padding: 55px 55px 10px 40px;
+   
+}
+.image_Description ul li{
+    display: inline-block;
+    position: relative;
+}
+
+
+
+.head_Description ul{
+    display: flex;
+}
+.paragraphe ul{
+    display: flex;
+}
+
+
+
+
+
+.image_Travel{
+width: 100%;
+height: 500px;
+margin-bottom: 80px;
+}
+
+.Ibn_Battuta{
+padding-top: 50px;
+text-align: center;
+font-size: 40px;
+}
+
+.Dead_Sea{
+    position: relative;
+}
+
+.Dead_Sea img{
+    width: 500px;
+    
+    }
+
+.Dead_Sea ul li{
+display: inline-block;
+
+}
+
+
+
+
+
+
+.Title_Dead{
+position: absolute ;
+top:5px;
+font-size: 35px;
+right: 800px;
+list-style: none;
+}
+
+.Paragraphe_Dead{
+position: absolute;
+top: 100px;
+right: 470px;
+font-size: 20px;
+list-style: none;
+}
+
+.button_Dead_sea{
+    position: absolute;
+    top: 300px;
+    right: 800px;
+    list-style: none;
+}
+
+.Wadi_Rum{
+    position: relative;
+}
+
+.Image_Wadi_Rum{
+    list-style: none;
+}
+.Image_Wadi_Rum img{
+
+width: 500px;
+margin-left: 700px;
+margin-top: 40px;
+
+}
+
+.Title_Wadi{
+    list-style: none;
+    font-size: 35px;
+    position: absolute;
+    left: 150px;
+    bottom: 230px;
+}
+
+.Paragraphe_Wadi{
+    list-style: none;
+    position: absolute;
+    font-size: 20px;
+    left: 150px;
+    bottom: 110px;
+}
+
+.button_Wadi{
+    list-style: none;
+    position: absolute;
+    font-size: 20px;
+    left: 210px;
+    bottom: 70px;
+}
+
+.Testimonials_head{
+    font-size: 35px;
+    text-align: center;
+    color: rgb(123, 22, 22);
+    margin-top: 160px;
+    margin-bottom: 60px;
+    
+}
+
+
+.Testimonials_People ul li{
+    display: inline-block;
+}
+
+
+.People_1{
+    padding: 10px;
+    background-color: rgba(123, 76, 10, 0.475);
+    width: 300px;
+    color: white;
+    margin-left: 100px;
+}
+
+.Paragrph_1{
+    margin-left: 100px;
+    background-color: blanchedalmond;
+    width: 300px;
+    padding: 10px;
+}
+
+.People_2li{
+    position: relative;
+}
+.People_2{
+    padding: 10px;
+    background-color: rgba(123, 76, 10, 0.475);
+    width: 325px;
+    color: white;
+    margin-left: 100px;
+    position: absolute;
+    bottom: 88px;
+    
+}
+
+.Paragrph_2{
+    margin-left: 100px;
+    background-color: blanchedalmond;
+    width: 325px;
+    padding: 10px;
+
+
+    
+}
+
+.People_3{
+    padding: 10px;
+    background-color: rgba(123, 76, 10, 0.475);
+    width: 325px;
+    color: white;
+    margin-left: 100px;
+}
+
+.Paragrph_3{
+    margin-left: 100px;
+    background-color: blanchedalmond;
+    width: 325px;
+    padding: 10px;
+}
+
+.Title_Blog{
+    margin-top: 150px;
+    text-align: center;
+    font-size: 55px;
+}
+
+.Blog ul li{
+    list-style: none;
+    display: inline-block;
+
+}
+
+.Title_Images{
+    width: 500px;
+    
+    list-style: none;
+    margin-left: 130px;
+}
+
+.Blog_link{
+    margin-left: 130px;
+    margin-bottom: 200px;
+}
+
+
+
+
+
+.forms_head{
+    font-size: 60px;
+    color: rgba(31, 45, 137, 0.755);
+    margin-left: 250px;
+    margin-top: 100px;
+}
+
+
+.form_sign{
+    position: relative;
+    margin-left: 250px;
+}
+
+.Jordan_Map {
+    width: 400px;
+    
+    height: 420px;
+    position: absolute;
+    left: 400px;
+    bottom: 1px;
+}
+
+.sumbet_sign{
+    position: absolute;
+    left: 50px;
+}
+
+.form_Table{
+    margin-top: 200px;
+    margin-left: 300px;
+}
+
+.submit{
+    margin-left: 400px;
+}
+
+
+.FeedBack{
+    text-align: center;
+}
