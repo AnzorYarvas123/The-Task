@@ -67,7 +67,7 @@ nav ul li{
     font-size: 80px;
     color: brown;
     border: rgb(160, 37, 37);
-    border-radius: 10px ;
+   /* border-radius: 10px ;*/
     border-style:dashed;
     margin: 50px 510px 50px 510px;
     border-width: 5px;
@@ -88,18 +88,6 @@ nav ul li{
     display: inline-block;
     position: relative;
 }
-
-
-
-.head_Description ul{
-    display: flex;
-}
-.paragraphe ul{
-    display: flex;
-}
-
-
-
 
 
 .image_Travel{
@@ -130,14 +118,22 @@ display: inline-block;
 
 
 
+.search{
+    position: relative;
+}
 
+.search_place{
+    position: absolute;
+    top: 40px;
+    right: 200px;
+}
 
 
 .Title_Dead{
 position: absolute ;
 top:5px;
 font-size: 35px;
-right: 800px;
+right: 750px;
 list-style: none;
 }
 
@@ -278,7 +274,6 @@ margin-top: 40px;
 
 .Title_Images{
     width: 500px;
-    
     list-style: none;
     margin-left: 130px;
 }
@@ -322,6 +317,7 @@ margin-top: 40px;
 .form_Table{
     margin-top: 200px;
     margin-left: 300px;
+    margin-bottom: 200px;
 }
 
 .submit{
